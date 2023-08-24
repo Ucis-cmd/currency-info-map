@@ -39,4 +39,4 @@ Output:
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/) Licensed. Copyright (c) Ugis Jansons 2023.
+MIT Licensed. Copyright (c) Ugis Jansons 2023.
