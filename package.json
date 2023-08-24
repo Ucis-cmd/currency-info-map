@@ -1,0 +1,17 @@
+{
+  "name": "currency-info-map",
+  "version": "1.0.2",
+  "description": "Function to get the name and symbol of a currency",
+  "main": "currency-info-map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency",
+    "info",
+    "map"
+  ],
+  "author": "Ugis Jansons",
+  "license": "MIT",
+  "type": "module"
+}
