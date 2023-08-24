@@ -1,6 +1,6 @@
 {
   "name": "currency-info-map",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Function to get the name and symbol of a currency",
   "main": "currency-info-map.js",
   "scripts": {
